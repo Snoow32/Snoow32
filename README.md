@@ -1,12 +1,8 @@
 ## Olá! Eu sou o Diogo 🖐️
 
-<div class="container">
-  <div class="item">
+<div class="icon-container">
     <img alt="Fraga GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Snoow32&show_icons=true&theme=dracula&count_private=true">
-  </div>
-  <div class="item">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snoow32&layout=compact">
-  </div>
 </div>
 
 
