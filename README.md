@@ -1,15 +1,14 @@
 ## Olá! Eu sou o Diogo 🖐️
 
-<table>
-  <tr>
-    <td>
-      <img alt="Fraga GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Snoow32&show_icons=true&theme=dracula&count_private=true">
-    </td>
-    <td>
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snoow32&layout=compact">
-    </td>
-  </tr>
-</table>
+<div class="container">
+  <div class="item">
+    <img alt="Fraga GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Snoow32&show_icons=true&theme=dracula&count_private=true">
+  </div>
+  <div class="item">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snoow32&layout=compact">
+  </div>
+</div>
+
 
 ## Meus conhecimentos.
 
